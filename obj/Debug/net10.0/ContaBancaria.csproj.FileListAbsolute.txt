@@ -1,0 +1,14 @@
+/media/mateus/F/Acelera Maker/ContaBancaria/bin/Debug/net10.0/ContaBancaria
+/media/mateus/F/Acelera Maker/ContaBancaria/bin/Debug/net10.0/ContaBancaria.deps.json
+/media/mateus/F/Acelera Maker/ContaBancaria/bin/Debug/net10.0/ContaBancaria.runtimeconfig.json
+/media/mateus/F/Acelera Maker/ContaBancaria/bin/Debug/net10.0/ContaBancaria.dll
+/media/mateus/F/Acelera Maker/ContaBancaria/bin/Debug/net10.0/ContaBancaria.pdb
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfoInputs.cache
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfo.cs
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.csproj.CoreCompileInputs.cache
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.dll
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/refint/ContaBancaria.dll
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.pdb
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ContaBancaria.genruntimeconfig.cache
+/media/mateus/F/Acelera Maker/ContaBancaria/obj/Debug/net10.0/ref/ContaBancaria.dll
